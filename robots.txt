@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vkiia.csgad.com/Aro/sitemap.xml.gz
